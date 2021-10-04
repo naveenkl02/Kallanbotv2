@@ -128,7 +128,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Raganork working!')
+            chalk.green.bold('✅ Kallanbotv2 working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*RAGANORK STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*KallanbotV2 STARTED*', MessageType.text);
                 }
             }
             else {
@@ -175,7 +175,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*RAGANORK STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*KallanbotV2 STARTED*', MessageType.text);
                 }
 
             }
@@ -201,7 +201,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*RAGANORK STARTED*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*KallanbotV2 STARTED*', MessageType.text);
                 }
             }
             else {
@@ -224,7 +224,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*RAGANORK STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*KallanbotV2 STARTED*', MessageType.text);
                 }
             }
         }
@@ -382,7 +382,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊 ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~KALLANBOTV2~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```JOIN SUPPORT GROUP ONLY WITH +91 NUMBERS``` ' 
                                     , MessageType.text);
                             }
