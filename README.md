@@ -1,39 +1,20 @@
 <div align="center">
 
-<a href="https://bit.ly/3lC8I7t"><img src="https://www.linkpicture.com/q/LPic614d2ed1210cf676708793.png" alt="google-font" border="0"></a>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Kallanbotv2+WA+Bot...;Created+by+Naveen....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
-  # <u> SETUP <u>
-  
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
-
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
-     
-<a href="https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN"><img src="https://www.linkpicture.com/q/LPic614d2f8eed9fe797753793.png" alt="Join our group" height="25" width="500" border="0"></a>
-  
-  </p>
-  
-  </p>
-  
-<details>
-    <summary>⏬<b>CLICK HERE FOR MORE INFO⏬</b></summary>
 
 <div align="center">
-  
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+SouravKL11)](https://bit.ly/3lC8I7t)
-
-
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
-</p>
-  
+  <a href="https://ibb.co/4wyvT9j"><img src="kallanbot.jpg""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
+<a href="#"><img title="Kallanbotv2" src="https://img.shields.io/badge/-Kallanbotv2-red?&style=for-the-badge"></a>
 </p>
-  <p align="center">
-<a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11-raganork/Raganork?color=000000&style=for-the-badge&logo=whatsapp"></a>
-</p>
+  </p>
+<p align="center">
+<a href="https://github.com/naveenkl02"><img title="kallan" src="https://img.shields.io/badge/author-naveenkl02?color=blue&style=for-the-badge&logo=github"></a>
+
 </div>
 <p align="center">
-Project created by <a href="https://github.com/souravkl11">souravkl11</a> to make it public
+Project created by <a href="https://github.com/naveenkl02">kallan</a> to make it public
     <br>
        | © |
         Reserved |
@@ -43,105 +24,126 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/souravkl11/Raganork">
-    <img src="https://img.shields.io/github/repo-size/souravkl11/Raganork?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/naveenkl02/Kallanbotv2 ">
+    <img src="https://img.shields.io/github/repo-size/naveenkl02/Kallanbotv2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-
-
+<a href="https://github.com/naveenkl02/followers"><img title="Followers" src="https://img.shields.io/github/followers/naveenkl02?color=grey&style=plastic"></a>
+<a href="https://github.com/naveenkl02/Kallanbotv2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/naveenkl02/Kallanbotv2?color=grey&style=plastic"></a>
+<a href="https://github.com/naveenkl02/Kallanbotv2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/naveenkl02/Kallanbotv2?color=grey&style=plastic"></a>
+<a href="https://github.com/naveenkl02/Kallanbotv2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/naveenkl02/Kallanbotv2?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
 <h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/sourav-mp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+
 </p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+    
 <p align="center">
-<a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="https://i.ytimg.com/vi/iRLphwWvxrs/maxresdefault.jpg" height="180" width="300" /></a>
 
-<div align="left">
+<a href="https://instagram.com/kallan_mp4?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
-  # 🔄 Can I fork and edit this bot?
-As per the license, You Can But We Will Not Support. 🙃
+</p>
+
+<h4 align="center">Support Video For Deploy Bot:</h4>
+
+<p align="center">
+
+<a href="https://youtu.be/dm_kVZ0m2eY" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+```
   
-  # Feature overview
-  
-- [x] Change image and contact of verified tick [ Exclusively on Raganork ]
-
-- [x] Change all major images and names of your bot
-
-- [x] Aco chatbot
-  
-- [x] Add plugins of your own without forking
-
-- [ ] Buttons (coming soon..)
-  
-  
-  
-<div align="center">
-
-## 📢 Guide
-### Join Support Group 👇
-   
-<br>
-  <div align="center">
-    
-  [![join](https://opportunitiesforyoungkenyans.co.ke/wp-content/uploads/2020/05/images.png-whatsapp.png)](https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN)
+Kallanbotv2 Userbot is Open Source software open to development. 
+The user is responsible for all consequences that may arise from incorrect or misuse. 
+Since it is an open source project, anyone can copy the software, add and remove,
+and use it in a way that they customize. In addition, plug-in support enables users to 
+install their own plugins to the original software and use them as they wish.
+Using the bot out of purpose will explicitly ban you.
+Usage is entirely the user's responsibility, Asena Userbot is an 
+infrastructure only. Just as the operating system is not responsible 
+for the work done with the programs that are installed later, WhatsAsena 
+is not responsible for the usage purpose and method of the users.
+Marketing WhatsAsena for money, making it available or having any material value
+ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
+the user is responsible.
+```
 
 
-    
 ## Setup
 <div align="center">
 
   ### <u> Simple Method <u>
-  Step-1: Click on scan qr code and get asena code
   
-  Step-2: Deploy To Heroku
-  
-  Step 3: Turn on worker
-  
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@souravkl11/Raganork-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
-     <div align="left">
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naveenkl02/Kallanbotv2)
+     </div>
 <br>
 <br >
-
-[![SOURAVKL11](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
-   
-
-
-### ⚠️ മുന്നറിയിപ്പ്! 
+If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
-യൂസർബോട്ട് കാരണം; നിങ്ങളുടെ WhatsApp അക്കൗണ്ട് നിരോധിച്ചേക്കാം.
-ഇതൊരു ഓപ്പൺ സോഴ്സ് പ്രോജക്റ്റാണ്, നിങ്ങൾ ചെയ്യുന്ന എല്ലാത്തിനും നിങ്ങൾ ഉത്തരവാദിയാണ്.
-തീർച്ചയായും, Raganork Developer ഉത്തരവാദിത്തം ഏറ്റെടുക്കുന്നില്ല.
-Raganork സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങൾ ഈ ഉത്തരവാദിത്തങ്ങൾ സ്വീകരിച്ചതായി കണക്കാക്കപ്പെടുന്നു.
-വ്യാജ നമ്പറുകൾ ഉപയോഗിച്ച് ഉപയോഗിക്കാൻ ശ്രമിക്കുക.
+bash <(curl -L https://t.ly/tHxh)
+``` 
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/naveenkl02/Kallanbotv2
+$ cd Kallanbotv2
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
 ```
+      
+```js
+SETUP
+$ git clone https://github.com/naveenkl02/Kallanbotv2
+$ cd Kallanbotv2
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
+# 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+<a href="https://chat.whatsapp.com/E5UG3iYJ5d62LrTdZq7pXP"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+  <div align="center">
 
-## Number ban ആവുന്നതിന്റെ കാരണം?
+    
 
-<div align="center">
-  <img border-radius: 15px src="https://www.linkpicture.com/q/LPic6155b9b63a0db214707442.png" width="200" height="200"/>
-  <p align="center">
+## F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages?
+This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
+### What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
+
+### Is it paid?
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
+  
 ## Developers
   <div align="center">
     
-  [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
-----|
-   [Sourav Kalathingal](https://github.com/souravkl11) 
-Base, Bug Fixes, Modules
+  [![kallan](https://github.com/naveenkl02.png?size=100)](https://github.com/naveenkl02)
+
+[kallan](https://github.com/naveenkl02)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
-   
-  
+
+
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
-  <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://bit.ly/3lC8I7t)
