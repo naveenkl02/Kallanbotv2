@@ -155,7 +155,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"\n\n*KALLANSER V2*
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"\n\n*KALLANBOT V2*
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
